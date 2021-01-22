@@ -1,0 +1,39 @@
+.container{
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #101820FF;
+}
+
+h1 {
+  position: relative;
+  font-family: 'Bungee Shade', cursive;
+  text-shadow: 2px 0 #232931;
+  font-size: 6rem;
+  color: #FEE715FF;
+  margin: 1px;
+
+}
+
+.play{
+  font-size:3rem;
+  margin: 1px;
+
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Lalita One', cursive;
+}
+
+img {
+  width: 80%;
+}
