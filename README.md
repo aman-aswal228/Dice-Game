@@ -1,3 +1,0 @@
-# Dice-Game
-This is a game for two players in which the player who got highet no. on thair dice Wins the game.......
-Enjoy
