@@ -1,5 +1,5 @@
 .container{
-  margin: auto;
+  margin: 20px auto;
   text-align: center;
   width: 70%;
 }
@@ -13,13 +13,12 @@ body {
 }
 
 h1 {
-  position: relative;
+  position:relative;
   font-family: 'Bungee Shade', cursive;
   text-shadow: 2px 0 #232931;
   font-size: 6rem;
   color: #FEE715FF;
-  margin: 1px;
-
+  line-height: 11rem;
 }
 
 .play{
@@ -36,4 +35,17 @@ p {
 
 img {
   width: 80%;
+}
+@media (max-width:1028px){
+  #h{
+  font-size:9rem;
+  color: red;
+  text-align: center;
+  }
+  .play{
+    font-size: 5rem;
+  }
+  .dice{
+    font-size: 4rem;
+  }
 }
